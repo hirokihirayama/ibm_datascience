@@ -13,6 +13,8 @@ This course consists of 9 courses :
 8) Machine Learning with Python 
 9) Applied Data Science Capstone
 
+----------------------------------------
+
 Timeline : May 5 2020 - May 15 2020
 
 Official Record on Coursera : https://www.coursera.org/account/accomplishments/professional-cert/TMB9CDSNKG7P
