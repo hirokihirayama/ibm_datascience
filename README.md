@@ -1,7 +1,9 @@
-# IBM Data Science Professional Certification Repository
+<h1> IBM Data Science Professional Certification Repository </h1> 
 
 Repository with projects and assignments from the IBM Data Science Professional Certification.
-This course consists of 9 courses : 
+This course focuses on using IBM cloud products and Python for data science. 
+
+<h2> This course consists of 9 courses : </h2> 
 
 1) What is Data Science?
 2) Open Source Tools for Data Science 
